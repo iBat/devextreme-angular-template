@@ -27,6 +27,6 @@
         "team:devextreme-devops"
     ],
     "constraints": {
-        "node": "^16.18.0"
+        "node": "16.20.2"
     }
 }
